@@ -5,16 +5,22 @@ class Developer:
     def __init__(self):
         self.name = "Iván David Guzmán Ruiz"
         self.role = "Backend Engineer"
-        self.location = "📍 Navalmoral de la Mata, Spain"
-        self.education = "M.Sc. in Physics"
+        self.focus = [
+            "Production APIs",
+            "ML Systems",
+            "LLM Orchestration"
+        ]
+        self.stack = [
+            "Python", "FastAPI", "NestJS",
+            "LangChain", "PostgreSQL", "GCP"
+        ]
+        self.location = "Spain (Remote)"
+        self.background = "M.Sc. in Physics"
         self.experience = "3+ years"
-        self.remote_ready = True
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
 
-me = Developer()
-me.say_hi()
+    def build(self):
+        return "Scalable, async, AI-powered systems"
+
 ```
 
 ## 🚀 About Me
