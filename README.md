@@ -182,7 +182,7 @@ achievements = {
 
 **⭐ If you find my work interesting, consider starring some repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=doctore100&color=blueviolet&style=for-the-badge)
+
 
 </div>
 
