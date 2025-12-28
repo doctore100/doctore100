@@ -137,30 +137,17 @@ achievements = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    loading="lazy"
-    src="https://github-readme-stats.vercel.app/api?username=doctore100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&icon_color=7AA2F7&text_color=C0CAF5&cache_seconds=21600&v=1"
-    alt="GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img
-    loading="lazy"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctore100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&text_color=C0CAF5&v=1"
-    alt="Top Languages"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctore100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&icon_color=7AA2F7&text_color=C0CAF5&cache_seconds=21600)
 
-<p align="center">
-  <img
-    loading="lazy"
-    src="https://streak-stats.demolab.com?user=doctore100&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7CD8&fire=7AA2F7&currStreakLabel=C0CAF5&v=1"
-    alt="GitHub Streak"
-  />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doctore100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&text_color=C0CAF5&cache_seconds=21600)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=doctore100&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7CD8&fire=7AA2F7&currStreakLabel=C0CAF5)
+
 </p>
 
 ---
+
 
 
 ## 🎓 Education & Certifications
