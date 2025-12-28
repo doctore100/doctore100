@@ -4,7 +4,7 @@
 class Developer:
     def __init__(self):
         self.name = "Iván David Guzmán Ruiz"
-        self.role = "Backend Python Engineer"
+        self.role = "Backend Engineer"
         self.location = "📍 Navalmoral de la Mata, Spain"
         self.education = "M.Sc. in Physics"
         self.experience = "3+ years"
