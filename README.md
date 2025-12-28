@@ -34,14 +34,16 @@ Backend Engineer with a solid scientific background, specialized in building **s
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Data & Scraping**
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
-### **AI & Automation**
+### **AI & LLM Integration**
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-411993?style=for-the-badge&logo=openrouter&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
@@ -49,7 +51,7 @@ Backend Engineer with a solid scientific background, specialized in building **s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ---
 
@@ -134,19 +136,6 @@ achievements = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doctore100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&icon_color=7AA2F7&text_color=C0CAF5&cache_seconds=21600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doctore100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&text_color=C0CAF5&cache_seconds=21600)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=doctore100&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7CD8&fire=7AA2F7&currStreakLabel=C0CAF5)
-
-</p>
-
----
 
 
 
