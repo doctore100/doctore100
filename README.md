@@ -4,7 +4,7 @@
 class Developer:
     def __init__(self):
         self.name = "Iván David Guzmán Ruiz"
-        self.role = "Backend Engineer"
+        self.role = "Backend Python Engineer"
         self.location = "📍 Navalmoral de la Mata, Spain"
         self.education = "M.Sc. in Physics"
         self.experience = "3+ years"
@@ -34,7 +34,6 @@ Backend Engineer with a solid scientific background, specialized in building **s
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Data & Scraping**
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
@@ -45,8 +44,6 @@ Backend Engineer with a solid scientific background, specialized in building **s
 ### **AI & Automation**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-411993?style=for-the-badge&logo=openrouter&logoColor=white)
 
 ### **Databases & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,6 +73,19 @@ achievements = {
 - ⚡ Developed **scalable asynchronous data ingestion** using Scrapy with anti-bot protection
 - 🐳 Orchestrated migration to **containerized Docker environment**
 
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Django SEO IA Platform](https://github.com/yourusername/project) (Private)
+> Scalable SaaS for mass AI-powered SEO content generation
+
+**Tech Stack:** `Django` `Celery` `Redis` `Docker` `React` `TypeScript`
+
+- ✅ Asynchronous task queues with Celery/Redis for batch LLM processing
+- ✅ Multi-tenant architecture with role-based access control
+- ✅ RESTful API with Django REST Framework
+- ✅ Dockerized microservices with Nginx reverse proxy
 
 ---
 
@@ -114,13 +124,17 @@ achievements = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doctore100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&icon_color=7AA2F7&text_color=C0CAF5" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctore100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&text_color=C0CAF5" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doctore100&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7CD8&fire=7AA2F7&currStreakLabel=C0CAF5" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -152,9 +166,10 @@ achievements = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-guzmán-935221271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.idruiz.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@idruiz.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
