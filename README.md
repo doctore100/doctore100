@@ -4,7 +4,7 @@
 class Developer:
     def __init__(self):
         self.name = "Iván David Guzmán Ruiz"
-        self.role = "Backend Python Engineer"
+        self.role = "Backend Engineer"
         self.location = "📍 Navalmoral de la Mata, Spain"
         self.education = "M.Sc. in Physics"
         self.experience = "3+ years"
@@ -77,19 +77,19 @@ achievements = {
 
 ## 🚀 Featured Projects
 
-### 🤖 [Django SEO IA Platform](https://github.com/yourusername/project) (Private)
-> Scalable SaaS for mass AI-powered SEO content generation
+### 🕷️ [AI Web Scraper with reCAPTCHA Solution](https://github.com/doctore100/AI-Web-Scraper-main-reCapcha-solution)
+> Advanced scraping with AI-powered semantic classification and automatic CAPTCHA resolution
 
-**Tech Stack:** `Django` `Celery` `Redis` `Docker` `React` `TypeScript`
+**Tech Stack:** `Selenium` `BrightData` `Ollama` `LangChain`
 
-- ✅ Asynchronous task queues with Celery/Redis for batch LLM processing
-- ✅ Multi-tenant architecture with role-based access control
-- ✅ RESTful API with Django REST Framework
-- ✅ Dockerized microservices with Nginx reverse proxy
+- ✅ Proxy rotation and anti-bot protection
+- ✅ Automatic reCAPTCHA resolution
+- ✅ Semantic data extraction with AI
+- ✅ Robust session management
 
 ---
 
-### 🧠 [Hormonal Balance - Telegram RAG Bot](https://github.com/yourusername/hormonal-bot)
+### 🧠 [Hormonal Balance - Telegram RAG Bot](https://github.com/doctore100/hormonal_balance)
 > Production-ready RAG system for personalized health data retrieval
 
 **Tech Stack:** `FastAPI` `SQLModel` `LangChain` `PostgreSQL` `Alembic`
@@ -101,7 +101,19 @@ achievements = {
 
 ---
 
-### 📦 [prestapy](https://github.com/prestapy/prestapy) - Open Source Contributor
+### 📚 [RAG Project - PDF Processing System](https://github.com/doctore100/rag_project)
+> Retrieval Augmented Generation system for intelligent document processing
+
+**Tech Stack:** `LangChain` `PostgreSQL` `OpenAI Embeddings`
+
+- ✅ Remote PostgreSQL database integration
+- ✅ OpenAI embedding for semantic search
+- ✅ Efficient document chunking and indexing
+- ✅ Production-ready RAG architecture
+
+---
+
+### 📦 [prestapy](https://github.com/jssantander1992/prestapy) - Open Source Contributor
 > Python client for PrestaShop Webservice API
 
 **Contributions:**
@@ -111,14 +123,14 @@ achievements = {
 
 ---
 
-### 🕷️ [AI Web Scraper](https://github.com/yourusername/ai-scraper)
-> Advanced scraping with AI-powered semantic classification
+### 🌐 [NovoHogar - MCP BrightData Integration](https://github.com/doctore100/novohogar1)
+> MCP connection with BrightData Scraper for real estate data extraction
 
-**Tech Stack:** `Selenium` `BrightData` `Ollama` `LangChain`
+**Tech Stack:** `Python` `BrightData` `MCP Protocol`
 
-- ✅ Proxy rotation and anti-bot protection
-- ✅ Automatic CAPTCHA resolution
-- ✅ Semantic data extraction with AI
+- ✅ Real estate data scraping at scale
+- ✅ MCP protocol integration
+- ✅ Automated data pipeline
 
 ---
 
@@ -166,10 +178,10 @@ achievements = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-guzmán-935221271/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.idruiz.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@idruiz.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doctore100)
 
 </div>
 
@@ -181,7 +193,7 @@ achievements = {
 
 **⭐ If you find my work interesting, consider starring some repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=doctore100&color=blueviolet&style=for-the-badge)
 
 </div>
 
